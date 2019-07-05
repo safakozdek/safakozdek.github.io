@@ -125,7 +125,7 @@ author:
       url: "https://github.com/safakozdek"
 
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fa fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/safakozdek/"
 
     - label: "Stack Overflow"
@@ -148,7 +148,7 @@ footer:
       url: "https://www.linkedin.com/in/safakozdek/"
 
     - label: "Stack Overflow"
-      icon: "fa fa-fw fa-stack-overflow"
+      icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/8695819"
 
 
