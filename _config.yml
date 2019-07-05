@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Alican Şafak Özdek"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/author-avatar.jpeg"
   bio              : "Just a person who is trying to learn."
   location         : "Istanbul"
   email            :
