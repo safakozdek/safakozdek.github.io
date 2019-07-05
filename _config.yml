@@ -114,7 +114,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: safakozdek@gmail.com
+      url: mailto:safakozdek@gmail.com
 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -125,7 +125,7 @@ author:
       url: "https://github.com/safakozdek"
 
     - label: "Linkedin"
-      icon: "fa fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/safakozdek/"
 
     - label: "Stack Overflow"
@@ -144,7 +144,7 @@ footer:
       url: "https://github.com/safakozdek"
 
     - label: "Linkedin"
-      icon: "fa fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/safakozdek/"
 
     - label: "Stack Overflow"
