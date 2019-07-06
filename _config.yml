@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Alican Şafak Özdek"
   avatar           : "/assets/images/author-avatar.jpeg"
-  bio              : "Dreamer, Constant learner"
+  bio              : "Dreamer, Constant learner,"
   location         : "Istanbul"
   email            :
   links:
@@ -288,6 +288,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: # true
       share: true
       related: true
