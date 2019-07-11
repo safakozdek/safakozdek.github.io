@@ -1,7 +1,8 @@
 ---
-title: "Blog"
-excerpt: "Some blog posts related to my area of interests."
-permalink: /blog/
+layout : category
+title : "Blog"
+excerpt : "Some blog posts related to my area of interests."
+permalink : /blog/
 
 # header:
 #  image: /assets/images/blogimg/head.jpg
