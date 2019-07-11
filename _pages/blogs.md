@@ -1,5 +1,5 @@
 ---
-layout : category
+layout : archive
 title : "Blog"
 excerpt : "Some blog posts related to my area of interests."
 permalink : /blog/
