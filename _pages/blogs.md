@@ -2,6 +2,7 @@
 layout : archive
 title : "Blog"
 excerpt : "Some blog posts related to my area of interests."
+author_profile: true
 permalink : /blog/
 
 # header:
@@ -13,3 +14,9 @@ permalink : /blog/
 #    url: nyc365blog
 #    excerpt: Every day input from NYC
 ---
+
+{% for post in site.posts %}
+  {% if post.categories contains 'blog' %}
+   {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
