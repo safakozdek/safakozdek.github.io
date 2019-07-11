@@ -1,5 +1,5 @@
 ---
-layout: _posts
+layout: posts
 title:  "Hello World!"
 categories: [blog]
 ---
