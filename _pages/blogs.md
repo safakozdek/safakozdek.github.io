@@ -1,7 +1,7 @@
 ---
-title: "Blogs"
+title: "Blog"
 excerpt: "Some blog posts related to my area of interests."
-permalink: /blogs/
+permalink: /blog/
 
 # header:
 #  image: /assets/images/blogimg/head.jpg
