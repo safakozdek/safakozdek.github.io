@@ -1,8 +1,8 @@
 ---
 layout: archive
-title : "Blog"
+title : "Algorithms"
 permalink: /alg/
-title: "Posts related to algorithms, data strucutures and problem solving"
+excerpt : "Posts related to algorithms, data strucutures and problem solving"
 author_profile: true
 ---
 
